@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\bin\Debug\netcoreapp2.1\box_unbox.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\bin\Debug\netcoreapp2.1\box_unbox.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\bin\Debug\netcoreapp2.1\box_unbox.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\bin\Debug\netcoreapp2.1\box_unbox.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\bin\Debug\netcoreapp2.1\box_unbox.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\obj\Debug\netcoreapp2.1\box_unbox.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\obj\Debug\netcoreapp2.1\box_unbox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\obj\Debug\netcoreapp2.1\box_unbox.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\obj\Debug\netcoreapp2.1\box_unbox.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\obj\Debug\netcoreapp2.1\box_unbox.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\box_unbox\obj\Debug\netcoreapp2.1\box_unbox.pdb
